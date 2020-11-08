@@ -1,5 +1,5 @@
-# Presentaciones hechas por mi <3
-Con amor para la comunidad
+# Presentaciones hechas por mi
+Con <3 para la comunidad
 
 ### Serie de Bash para pentesting - Presentaciones 
 * Bash Scripting by Vay3t L4tin-HTB
