@@ -6,5 +6,5 @@ Con <3 para la comunidad
     * Video: https://www.youtube.com/watch?v=IT4GsN2IyGY
 * Recon/pentesting con Bash Hackmeeting BO
     * Video: https://youtu.be/lqSWOakmnqA?t=12682
-    * Presentación: 
+    * Presentación: https://github.com/vay3t/Presentaciones/blob/main/HackmeetingBO/BashHackmeetingBO.pdf
     * Demo: https://github.com/vay3t/Presentaciones/blob/main/HackmeetingBO/demoHackmeetingBO.mp4
