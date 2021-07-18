@@ -1,6 +1,9 @@
 # Presentaciones hechas por mi
 Con <3 para la comunidad
 
+# Archived
+Migrated to https://gitlab.com/vay3t/Presentaciones
+
 ## Serie de Bash para pentesting - Presentaciones 
 
 * Bash Scripting by Vay3t L4tin-HTB
